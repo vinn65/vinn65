@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vinn65
+- 👀 I’m interested in web edvelopment 
+- 🌱 I’m currently learning web security, web development using django framework
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me vinniev960@gmail.com
