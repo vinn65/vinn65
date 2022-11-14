@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning web security(portswigger), web development using Django.
 - 🌱 I`m a python enthusiast, Golang and Javascript
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me https://twitter.com/user01jr
+- 📫 How to reach me https://twitter.com/vin607
 - Sample project - https://studentsstudy.herokuapp.com
