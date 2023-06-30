@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinn65" alt="vinn65" /></a> </p>
 
-- 🔭 I’m currently Participating in **Huawei ICT Sub-Saharan Regiogional Competition**
 
 - 🌱 I’m currently learning **Data Science at Udemy. Web Security at PortSwigger Academy**
 
