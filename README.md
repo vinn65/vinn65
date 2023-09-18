@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">I’m interested in Network development and management,CyberSecurity, Web Development(Django Framework), Data Science</h3>
+<h3 align="center">I’m interested in CyberSecurity, Web development (Django Framework), and data science.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinn65" alt="vinn65" /></a> </p>
 
