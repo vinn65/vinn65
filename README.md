@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science at Udemy. Web Security at PortSwigger Academy**
 
-- 👯 I’m looking to collaborate on **Web Development projects(Django Framework), CyberSecurity, Data SCience.**
+- 👯 I’m looking to collaborate on **Web Development projects(Django Framework), CyberSecurity, Data SCience.**</h3>
 
 - 💬 Ask me about **Python, Django**
 
