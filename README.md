@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Personal project
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning **Business Central** & ASP.net Core 
 
 - 💬 Ask me about **Django**
 
